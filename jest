@@ -1,0 +1,6 @@
+npx eslint src/*.js
+
+
+
+
+
